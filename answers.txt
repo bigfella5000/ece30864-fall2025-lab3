@@ -8,4 +8,7 @@ c) Sprint planning meeting: Determine what needs to be completed in the coming s
    Daily scrum meeting: Discuss work completed so far; Discuss what needs to be completed for the day and any issues
    Sprint retrospective meeting: Discuss the completed work; Move incompleted work to backlog
 
-d) 
+d) Epic: A large body of work that can be split up into stories
+   Story: A software requirement that can be expressed in a few sentences
+   Bug: An issue in your software that needs to be fixed
+   Task: A unit of work smaller than a story that is needed in order to complete its parent story. It often refers to a small bit of technical work.
