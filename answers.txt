@@ -1,0 +1,8 @@
+a) Two pros of Agile development are that it is very flexible and it delivers continuous improvements.
+   Two cons are that it generally does not emphasize good documentation and it can be harder to scale.
+
+b) 
+
+c) 
+
+d) 
