@@ -4,6 +4,8 @@ a) Two pros of Agile development are that it is very flexible and it delivers co
 b) The Scrum Master is in charge of facilitating work and coaching the developers below them.
    The Product Owner is in charge decision-making, strategizing, and managing what is put on the backlog.
 
-c) 
+c) Sprint planning meeting: Determine what needs to be completed in the coming spring; Determine story points and assign work
+   Daily scrum meeting: Discuss work completed so far; Discuss what needs to be completed for the day and any issues
+   Sprint retrospective meeting: Discuss the completed work; Move incompleted work to backlog
 
 d) 
